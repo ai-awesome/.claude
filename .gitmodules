@@ -1,0 +1,12 @@
+[submodule "skills/submit-pr"]
+	path = skills/submit-pr
+	url = https://github.com/ai-awesome/skill-submit-pr.git
+[submodule "skills/publish"]
+	path = skills/publish
+	url = https://github.com/ai-awesome/skill-publish.git
+[submodule "skills/audit-project"]
+	path = skills/audit-project
+	url = https://github.com/ai-awesome/skill-audit-project.git
+[submodule "skills/create-slides"]
+	path = skills/create-slides
+	url = https://github.com/ai-awesome/skill-create-slides.git

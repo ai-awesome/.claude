@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow these files/folders
+!.gitignore
+!CLAUDE.md
+!README.md
+!settings.json
+!agents/
+!agents/**
+!scripts/
+!scripts/**
+!skills
+!skills/**
