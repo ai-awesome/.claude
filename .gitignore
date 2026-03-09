@@ -4,6 +4,7 @@
 # Allow these files/folders
 !.gitignore
 !CLAUDE.md
+!CONVENTIONS.md
 !README.md
 !settings.json
 !agents/
